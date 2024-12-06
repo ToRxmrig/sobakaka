@@ -20,7 +20,7 @@
     "pools": [
         {
             "url": "pool.supportxmr.com:5555",
-            "user": "86x4EkchvMLLZcL16bG25rJCRRukq5MYyT1fhUq2bAFP1fD9hLVCgNY8tC3wknFVW9BPsv6xSJWBa8ofyscqLe1j7xvg9Uz",
+            "user": "47STP8dQQCyNNzpjFq7H3hfpTKLmw7A6TFZ8etZg7RQ47NNeF4RR2Dn7bb2ztgVpHQeJisn7Hnv2KAerjt3dG4bfRsDKpVV",
             "pass": "pm",
             "keepalive": true,
             "variant": -1,
@@ -29,7 +29,7 @@
         },
         {
             "url": "gulf.moneroocean.stream:10016",
-            "user": "86x4EkchvMLLZcL16bG25rJCRRukq5MYyT1fhUq2bAFP1fD9hLVCgNY8tC3wknFVW9BPsv6xSJWBa8ofyscqLe1j7xvg9Uz",
+            "user": "47STP8dQQCyNNzpjFq7H3hfpTKLmw7A6TFZ8etZg7RQ47NNeF4RR2Dn7bb2ztgVpHQeJisn7Hnv2KAerjt3dG4bfRsDKpVV",
             "pass": "pm",
             "keepalive": true,
             "variant": -1,
@@ -38,7 +38,7 @@
         },
         {
             "url": "pool.minexmr.com:4444",
-            "user": "86x4EkchvMLLZcL16bG25rJCRRukq5MYyT1fhUq2bAFP1fD9hLVCgNY8tC3wknFVW9BPsv6xSJWBa8ofyscqLe1j7xvg9Uz",
+            "user": "47STP8dQQCyNNzpjFq7H3hfpTKLmw7A6TFZ8etZg7RQ47NNeF4RR2Dn7bb2ztgVpHQeJisn7Hnv2KAerjt3dG4bfRsDKpVV",
             "pass": "pm",
             "keepalive": true,
             "variant": -1,
