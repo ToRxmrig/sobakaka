@@ -1,7 +1,7 @@
-FROM debian:stable-slim
+FROM ubuntu:latest
 
 RUN apt update && apt-get install --no-install-recommends -y git upx binutils build-essential cmake libuv1-dev libmicrohttpd-dev libssl-dev && \
-   git config --global http.sslVerify false && git clone https://github.com/polambakhaz/xmrig.git && \
+   git config --global http.sslVerify false && git clone https://github.com/afghanamster/xmrig.git && \
   cd xmrig && \
   mkdir build && \
   cd build && \
