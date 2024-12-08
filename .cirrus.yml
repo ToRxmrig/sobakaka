@@ -1,6 +1,14 @@
-container:
-  image: debian
-  cpu: 4
-  memory: 12
-  run_script: bash ./scripts/xdebian.sh
+efficient_task:
+  container:
+    dockerfile: monero/cpu/Dockerfile
+    docker_arguments:
+      foo: foo
+  test_script: ...
 
+inefficient_task:
+  container:
+    image: node:latest
+  setup_script:
+    - apt-get update
+    - apt-get install build-essential
+  test_script: ...
